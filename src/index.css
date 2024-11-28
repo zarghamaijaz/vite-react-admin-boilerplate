@@ -1,0 +1,16 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --black-200: #252525;
+  --black-300: #353535;
+  --background: #ffffff;
+  --text: #252525;
+  --primary: #ff4135;
+  --primary-50: #fbebe9;
+  --secondary: #2b47ad;
+  --secondary-50: #bac6f4;
+  --tertiary: #c879ff;
+}
